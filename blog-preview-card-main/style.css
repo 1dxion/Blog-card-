@@ -1,0 +1,80 @@
+html {
+  font-family: "Figtree", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+
+}
+
+
+body {
+    margin: 0;
+    background-color: #F4D04E;
+    font-size: 14px;
+}
+
+/* .container {
+    width: 200px;
+    margin: 2rem 0 auto;
+} */
+
+section article {
+    width: 340px;
+    height: 522px 460px;
+    background: rgba(255,255,255,1);
+    padding: 24px 24px;
+    margin: 8rem auto;
+    border-radius: 20px;
+    border: solid 0.5px;
+    box-shadow: 8px 8px 0px rgba(0, 0, 0, 1);
+}
+
+.imgPrin {
+    border-radius: 20px;
+}
+
+.box {
+    width: 83px;
+    height: 33px;
+    background: rgba(244,207,77,1);
+    /* padding: 1rem 0.20rem; */
+    border-radius: 10px;
+}
+
+.text {
+    padding: 10px 12px;
+}
+
+h2 {
+transition: text-shadow 0.3s ease;
+transition: color 0.2s ease;
+cursor: pointer;
+}
+
+h2:hover {
+    color: #F4D04E;
+    text-shadow: 0 0.1rem 0.4rem rgba(0, 0, 0, 0.3);
+}
+
+.parrf {
+    opacity: 50%;
+}
+
+.container {
+    
+}
+
+img {
+    border-radius: 50%;
+    width: 30px;
+    position:absolute;
+    margin: 0px 15px 10px 0px;
+}
+
+.name {
+    margin: 0px 0px 0px 35px;
+    float: inline;
+}
+
+.attribution { font-size: 11px; text-align: center; }
+
